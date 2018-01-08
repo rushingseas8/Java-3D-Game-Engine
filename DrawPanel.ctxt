@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawPanel()
+comment1.params=d
+comment1.target=void\ addObject(DrawObject)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=c
+comment3.target=void\ componentHidden(java.awt.event.ComponentEvent)
+comment4.params=e
+comment4.target=void\ componentMoved(java.awt.event.ComponentEvent)
+comment5.params=e
+comment5.target=void\ componentResized(java.awt.event.ComponentEvent)
+comment6.params=e
+comment6.target=void\ componentShown(java.awt.event.ComponentEvent)
+numComments=7

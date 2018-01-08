@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h
+comment0.target=DrawSquare(float,\ float,\ float,\ float)
+comment1.params=
+comment1.target=Vector[]\ getRawBounds()
+comment2.params=
+comment2.target=Vector\ getCenter()
+comment3.params=camera
+comment3.target=java.awt.Polygon\ getBounds(Camera)
+numComments=4

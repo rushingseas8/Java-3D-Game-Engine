@@ -1,0 +1,42 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vector()
+comment1.params=x
+comment1.target=Vector(float)
+comment10.params=val
+comment10.target=Vector\ divide(float)
+comment11.params=other
+comment11.target=Vector\ add(Vector)
+comment12.params=other
+comment12.target=Vector\ subtract(Vector)
+comment13.params=m
+comment13.target=Vector\ multiply(Matrix4)
+comment14.params=m\ appendW
+comment14.target=Vector\ multiply(Matrix4,\ boolean)
+comment14.text=\n\ For\ multiplication\ using\ Vector4s,\ you\ need\ to\ have\ w\ \=\ 1.\ Thus,\ for\ Vectors\ with\n\ dimension\ less\ than\ 4,\ their\ w\ values\ need\ to\ be\ set\ to\ 1.\ I\ left\ in\ the\ option\ because\n\ I'm\ not\ sure\ if\ some\ regular\ multiplication\ will\ be\ needed.\n\ \n\ tl;dr\ if\ appendW\ \=\=\ false,\ regular\ multiplication;\n\ \ appendW\ \=\=\ true\ ->\ set\ w\ \=\ 1\ first\ (useful\ for\ rotations)\n\ \ \n\ This\ function\ returns\ a\ new\ Vector.\n
+comment15.params=q
+comment15.target=Vector\ multiply(Quaternion)
+comment15.text=\n\ Rotates\ this\ Vector\ by\ the\ Quaternion\ q.\n\ Calculates\ the\ conjugation\ (p'\ \=\ q\ *\ p\ *\ q^-1)\ with\ this\ vector\ converted\ to\ a\ pure\ Quaternion.\n
+comment16.params=
+comment16.target=Vector\ normalizeW()
+comment17.params=
+comment17.target=java.lang.String\ toString()
+comment18.params=other
+comment18.target=boolean\ equals(java.lang.Object)
+comment2.params=x\ y
+comment2.target=Vector(float,\ float)
+comment3.params=x\ y\ z
+comment3.target=Vector(float,\ float,\ float)
+comment4.params=x\ y\ z\ w
+comment4.target=Vector(float,\ float,\ float,\ float)
+comment5.params=
+comment5.target=Vector\ zero()
+comment6.params=
+comment6.target=Vector\ one()
+comment7.params=val
+comment7.target=Vector\ add(float)
+comment8.params=val
+comment8.target=Vector\ subtract(float)
+comment9.params=val
+comment9.target=Vector\ multiply(float)
+numComments=19

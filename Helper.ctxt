@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=camera\ pos
+comment0.target=Vector\ worldToCamera(Camera,\ Vector)
+comment1.params=value\ min\ max
+comment1.target=float\ clamp(float,\ double,\ double)
+comment2.params=value\ mod
+comment2.target=float\ mod(float,\ double)
+numComments=3

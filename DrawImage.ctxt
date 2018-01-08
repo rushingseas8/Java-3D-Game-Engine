@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=img\ x\ y\ z
+comment0.target=DrawImage(java.awt.image.BufferedImage,\ float,\ float,\ float)
+comment1.params=camera
+comment1.target=java.awt.Polygon\ getBounds(Camera)
+comment2.params=
+comment2.target=Vector\ getCenter()
+numComments=3

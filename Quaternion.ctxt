@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Quaternion()
+comment1.params=w\ x\ y\ z
+comment1.target=Quaternion(float,\ float,\ float,\ float)
+comment2.params=
+comment2.target=Quaternion\ identity()
+comment3.params=theta\ v
+comment3.target=Quaternion\ angleAxis(double,\ Vector)
+comment4.params=theta\ x\ y\ z
+comment4.target=Quaternion\ angleAxis(double,\ float,\ float,\ float)
+comment5.params=
+comment5.target=Quaternion\ normalize()
+comment6.params=
+comment6.target=Quaternion\ inverse()
+comment7.params=
+comment7.target=Vector\ toEulerAngles()
+comment8.params=other
+comment8.target=Quaternion\ multiply(Quaternion)
+comment8.text=\n\ Per\ wikipedia\ (https\://en.wikipedia.org/wiki/Quaternions_and_spatial_rotation)\n
+comment9.params=
+comment9.target=Vector\ getVector()
+numComments=10
